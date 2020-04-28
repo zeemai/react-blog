@@ -28,7 +28,7 @@ ul {
 }
 .nav-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   justify-content: flex-end;
   align-content: flex-start;
